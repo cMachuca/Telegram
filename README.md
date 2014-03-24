@@ -1,3 +1,5 @@
+I forked for study porposes
+
 ## Telegram messenger for Android
 
 [Telegram](http://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
